@@ -1,0 +1,1 @@
+Just clone the repo and run "docker-composer up -d" in root directory.
